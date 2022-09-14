@@ -1,0 +1,1 @@
+check whether a number 19 is prime or not. if it is prime print Yes else No.
